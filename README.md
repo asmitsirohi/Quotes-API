@@ -14,7 +14,7 @@ https://anonic-quotesapi.herokuapp.com/
 - Amazing Quotes API with +8k quotes, with different +19 categories.
 - Respond data in JSON format.
 - Free of Cost Quotes.
-- It is flexible and easy to use app.
+- It is flexible and easy to use rest api.
 
 > You need to get unique APIKEY after Signup.
 
